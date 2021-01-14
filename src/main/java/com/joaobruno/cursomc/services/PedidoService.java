@@ -10,11 +10,9 @@ import com.joaobruno.cursomc.domain.ItemPedido;
 import com.joaobruno.cursomc.domain.PagamentoComBoleto;
 import com.joaobruno.cursomc.domain.Pedido;
 import com.joaobruno.cursomc.domain.enums.EstadoPagamento;
-import com.joaobruno.cursomc.repositories.ClienteRepository;
 import com.joaobruno.cursomc.repositories.ItemPedidoRepository;
 import com.joaobruno.cursomc.repositories.PagamentoRepository;
 import com.joaobruno.cursomc.repositories.PedidoRepository;
-import com.joaobruno.cursomc.repositories.ProdutoRepository;
 import com.joaobruno.cursomc.services.exceptions.ObjectNotFoundException;
 
 
